@@ -1,4 +1,4 @@
-# vue-mastery-app
+# vue-mastery-app [![Netlify Status](https://api.netlify.com/api/v1/badges/9a9256fe-f5fe-4746-8444-15687117076a/deploy-status)](https://app.netlify.com/sites/vue-my-trello/deploys)
 
 ## Project setup
 ```
